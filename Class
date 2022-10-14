@@ -1,1 +1,75 @@
+class Museum:
+    def __init__(self, name: str, location: str, area: float):
+        """
+        Создание и подготовка к работе объекта "Музей"
+        :param name: Название музея
+        :param location: Локация музея
+        :param area: Площадь музея
+        """
+        self.name = name
+        self.location = location
+        self.area = area
+        
+         def get_info_museum(self):
+        """
+        Функция которая выдает информацию о музее
+      
+        """
+        ...
+        
+         def add_area(self, area_sum: float) -> float:
+        """
+        Изменение площади музея.
+        
+        :param area_sum: дополнительная площадь
+        :return: измененная площадь
+        """
+        ...
+        
+          def is_museum(self) -> bool:
+        """
+        Функция которая проверяет является ли словарь музеем
+        :return: Является ли объект музеем или нет
+        """
+        ...
+        
+        
+        
+        class Book:
+    def __init__(self, name: str, autor: str, genre: str, page: int):
+        """
+        Создание и подготовка к работе объекта "Книга"
+        :param name: Название книги
+        :param autor: Автор книги
+        :param genre: : Жанр книги
+        :param page: : Количество страниц
+        """
+        self.name = name
+        self.autor = autor
+        self.genre = genre
+        self.page = page
+        
+         def get_info_book(self):
+        """
+        Функция которая выдает информацию о книге
+      
+        """
+        ...
+        
+         def quantity_pages(self, number: int) -> int:
+        """
+        Информация о количестве страниц
+        
+        :param number: количество страниц
+        :return: количество страниц
+        """
+        ...
+        
+          def is_book(self) -> bool:
+        """
+        Функция которая проверяет является ли словарь музеем
+        :return: Является ли объект книгой или нет
+        """
+        ...
+        
 
