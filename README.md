@@ -1,5 +1,16 @@
 ## Ссылка на коллаб
+
+Практическая 1
+https://colab.research.google.com/drive/1hnf3GGFOYe5poGpOZMWEWrQN3-cKCED-?usp=sharing
+
+Практическая с классами (Class_City)
+https://colab.research.google.com/drive/1oHCCOBxvnON345IYgcWfFBBXp_AcmFo1?usp=sharing
+
+Практическая 2
 https://colab.research.google.com/drive/1_DLyomgGguZ6yRkhExccGyMgZdAAeWzV?usp=sharing
+
+Практическая 3
+https://colab.research.google.com/drive/1C3s0wNFguY5_iGUdQQmEUwvNftAavqk1?usp=sharing
 
 ## Задание
 
