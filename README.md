@@ -1,3 +1,6 @@
+## Ссылка на коллаб
+https://colab.research.google.com/drive/1_DLyomgGguZ6yRkhExccGyMgZdAAeWzV?usp=sharing
+
 ## Задание
 
 1. Сделать fork данного репозитория.  
